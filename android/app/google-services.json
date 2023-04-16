@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725789420551",
+    "project_id": "jutella-d4f87",
+    "storage_bucket": "jutella-d4f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725789420551:android:b8c6170065f61ad8bb0ea2",
+        "android_client_info": {
+          "package_name": "com.example.whproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725789420551-1jllrr1fm14vhs179mj5doisl0r3fq1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvgg1VxnhtcigVVZbfQ5d6mAa_tlFo2Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725789420551-1jllrr1fm14vhs179mj5doisl0r3fq1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
